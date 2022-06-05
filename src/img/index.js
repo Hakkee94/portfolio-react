@@ -1,0 +1,16 @@
+import chat from './chat.png'
+import CSS3 from './CSS3-logo.png'
+import dribble from './dribbble.png'
+import English from './English-logo.jpeg'
+import figma from './figmaa.jpeg'
+import github from './github.png'
+import HTML from './HTML5.jpeg'
+import js from './js.png'
+import Reactt from './react.png'
+import reactLogo from './react-logo.png'
+import storybook from './story-book.png'
+import telegram from './telegram-logo.png'
+import vk from './vk-logo.png'
+import webstormLogo from './webstorm-logo.png'
+
+export {chat, CSS3, dribble, English, figma, github, HTML, js, Reactt, vk, reactLogo, webstormLogo, telegram, storybook}
