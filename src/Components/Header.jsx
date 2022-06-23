@@ -6,10 +6,10 @@ const Header = ({skills, projects, about, contacts}) => {
             <div className="header-content">
 
                 <div className="header-articles">
-                    <h3>{skills}</h3>
-                    <h3>{projects}</h3>
-                    <h3>{about}</h3>
-                    <h3>{contacts}</h3>
+                    <a href="#skills">{skills}</a>
+                    <a href="#projects">{projects}</a>
+                    <a href="#about">{about}</a>
+                    <a href="#contacts">{contacts}</a>
                 </div>
             </div>
         </header>

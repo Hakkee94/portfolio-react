@@ -4,7 +4,7 @@ import * as imgs from '../img/index.js'
 
 const FirstContent = () => {
     return (
-        <div className="first-content">
+        <div className="first-content" id='skills'>
             <div className="introduction">
                 <h1>Меня зовут Давид Агасян, начинающий фронтенд разработчик.</h1>
             </div>
