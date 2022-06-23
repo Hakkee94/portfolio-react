@@ -9,28 +9,21 @@ const AboutMe = () => {
 
             <div>
                 <h2 className="subtitle-tall">
-
+                    Окончил РАНХиГС в 2015 году, факультет финансов и банковского дела. Работал в банках, в аудиторской компании (ФБК), позже в сфере коммерческой недвижимости.
                 </h2>
 
                 <h2 className="subtitle-tall">
-                    I prioritize communication while building. I am an excellent communicator, both written and verbal.
-                    I use
-                    screen casts, video calls, and written words to lead teams built on trust and transparency.
+                    Имею внушительный опыт в коммуникации с людьми, ответственен, легко нахожу общий язык. Пунктуален.
                 </h2>
 
                 <h2 className="subtitle-tall">
-                    I am an expert in JavaScript, working primarily in React and Firebase, but I have experience working
-                    in a
-                    wide range of technologies including Node & Express, MongoDB, PostgreSQL, React Native, Gatsby, REST
-                    API
-                    design, CircleCI, 3rd party APIs (Stripe, Discord, Slack, Amplitude, Google Auth, etc.), AWS (S3,
-                    CloudFront, Cognito, Build Pipeline, Route53, ACM), and many more.
+
                 </h2>
 
                 <h2 className="last-subtitle">
-                    Additionally, I am an experienced interface and user experience designer. I use Figma to communicate
-                    ideas
-                    through low and high fidelity mockups, design systems, and clickable prototypes.
+                    Разработку открыл для себя интересной и многообещающей.
+                    Начал индивидуальное обучение 1,5 года назад, постоянно практикуюсь и открываю для себя новые технологии в разработке.
+                    Из последнего - активно постигаю React.
                 </h2>
             </div>
 

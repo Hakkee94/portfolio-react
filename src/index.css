@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,500;1,400&display=swap');
 
-
 body {
   width: 75%;
   margin-left: auto;
@@ -266,7 +265,6 @@ footer {
 .skill-list {
   display: flex;
   flex-direction: column;
-  text-align: end;
 }
 
 .skill-logo {
