@@ -30,12 +30,12 @@ const AboutMe = () => {
 
             <div className='contacts' id='contacts'>
                 <h2 className="subtitle-tall">
-                    Почта :
+                    Почта:
                     <a href="mailto:agasyandavid94@gmail.com">agasyandavid94@gmail.com</a>
                 </h2>
 
                 <h2 className="subtitle-tall">
-                    Телефон :
+                    Телефон:
                     <a href="tel:+79853349963">+7(985)334-99-63</a>
                 </h2>
 

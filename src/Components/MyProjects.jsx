@@ -10,7 +10,7 @@ const MyProjects = () => {
             </div>
 
             <div className='first-project'>
-                <OtherProjects fullProject title='Интернет магазин' info='какой-то текст' link='https://github.com/Hakkee94/David-layout/tree/dev/Internet-shop'/>
+                <OtherProjects fullProject title='Интернет магазин' info='Проект создан с помощью HTML, CSS, JS' link='https://github.com/Hakkee94/David-layout/tree/dev/Internet-shop'/>
             </div>
 
             <SemiDivs/>

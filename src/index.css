@@ -295,6 +295,10 @@ a {
   font-size: 22px;
 }
 
+.project-button a {
+  font-size: 16px;
+}
+
 @media (max-width: 902px) {
   .first-project-position {
     width: 268px;
