@@ -6,10 +6,10 @@ const FirstContent = () => {
     return (
         <div className="first-content" id='skills'>
             <div className="introduction">
-                <h1>Меня зовут Давид Агасян, начинающий фронтенд разработчик.</h1>
+                <h1>Меня зовут Давид Агасян, фронтенд разработчик.</h1>
             </div>
 
-            <div>
+            <div className='skill-items'>
                 <div className="skill">
                     <h2>Мои основные навыки</h2>
                 </div>

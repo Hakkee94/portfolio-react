@@ -158,7 +158,7 @@ header {
   padding: 35px;
   background: #4682B4;
   border-radius: 8px;
-  height: 192px;
+  height: 230px;
   margin-bottom: 20px;
   width: calc(50% - 80px);
   min-width: 240px;
@@ -219,7 +219,6 @@ footer {
 
 .first-project {
   display: flex;
-  justify-content: center;
 }
 
 .footer-images {
@@ -265,6 +264,12 @@ footer {
   padding-bottom: 20px;
 }
 
+.skill-items {
+  border: 2px solid steelblue;
+  padding: 20px;
+  border-radius: 5px;
+}
+
 .skill-list {
   display: flex;
   flex-direction: column;
@@ -304,13 +309,13 @@ a {
 
 @media (max-width: 902px) {
   .first-project-position {
-    width: 268px;
     display: flex;
     align-items: flex-start;
+    min-width: 240px;
   }
 
   .first-project {
-    justify-content: center;
+
   }
 
   .semi-divs {
