@@ -10,7 +10,8 @@ const MyProjects = () => {
             </div>
 
             <div className='first-project'>
-                <OtherProjects fullProject title='Интернет магазин' info='Проект создан с помощью HTML, CSS, JS' link='https://github.com/Hakkee94/David-layout/tree/dev/Internet-shop'/>
+                <OtherProjects fullProject title='Redux приложение' info='Интернет магазин ноутбуков, написанный на React+Redux, использовался redux-toolkit' link='https://hakkee94.github.io/redux-cart-shop/'/>
+
             </div>
 
             <SemiDivs/>
