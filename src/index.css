@@ -6,7 +6,9 @@ body {
   margin-right: auto;
   padding-left: 16px;
   padding-right: 16px;
-  background-image: linear-gradient(114.9deg, rgba(34, 34, 34, 1) 8.3%, rgba(0, 40, 60, 1) 41.6%, rgba(0, 143, 213, 1) 93.4%);
+  /*background-image: linear-gradient(114.9deg, rgba(34, 34, 34, 1) 8.3%, rgba(0, 40, 60, 1) 41.6%, rgba(0, 143, 213, 1) 93.4%);*/
+  background: rgb(65,119,204);
+  background: linear-gradient(0deg, rgba(65,119,204,1) 29%, rgba(0,114,206,1) 90%);
 }
 
 a {
@@ -15,7 +17,7 @@ a {
 }
 
 h1 {
-  font-family: sans-serif;
+  font-family: system-ui;
   font-style: normal;
   font-weight: normal;
   font-size: 35px;
@@ -27,7 +29,7 @@ h1 {
 }
 
 h2 {
-  font-family: sans-serif;
+  font-family: system-ui;
   font-style: normal;
   font-weight: bold;
   font-size: 30px;
@@ -40,7 +42,7 @@ h2 {
 }
 
 h3 {
-  font-family: sans-serif;
+  font-family: system-ui;
   font-style: normal;
   font-weight: 500;
   font-size: 20px;
@@ -53,7 +55,7 @@ h3 {
 }
 
 h4 {
-  font-family: sans-serif;
+  font-family: system-ui;
   font-style: normal;
   font-weight: bold;
   font-size: 12px;
@@ -64,7 +66,7 @@ h4 {
 }
 
 span {
-  font-family: sans-serif;
+  font-family: system-ui;
   font-style: normal;
   font-weight: normal;
   font-size: 18px;
@@ -94,7 +96,7 @@ header {
 }
 
 .subtitle {
-  font-family: sans-serif;
+  font-family: system-ui;
   font-style: normal;
   font-weight: bold;
   font-size: 24px;
@@ -109,7 +111,7 @@ header {
 }
 
 .subtitle-tall {
-  font-family: sans-serif;
+  font-family: system-ui;
   font-style: normal;
   font-weight: normal;
   font-size: 18px;
@@ -152,6 +154,8 @@ header {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+  box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+
 }
 
 .other-projects {
@@ -165,6 +169,7 @@ header {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+  box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
 }
 
 .project-button {
@@ -182,10 +187,11 @@ header {
   width: 100%;
   line-height: 23px;
   font-weight: 500;
-  font-family: sans-serif;
+  font-family: system-ui;
   display: flex;
   height: 33px;
-  background-image: linear-gradient(to right, #314755 0%, #26a0da 51%, #314755 100%);
+  /*background-image: linear-gradient(to right, #314755 0%, #26a0da 51%, #314755 100%);*/
+  background-color: rgba(214, 61, 0, 1);
   cursor: pointer;
   justify-content: center;
   align-items: center;
@@ -236,7 +242,7 @@ footer {
 }
 
 .last-subtitle {
-  font-family: sans-serif;
+  font-family: system-ui;
   font-style: normal;
   font-weight: normal;
   font-size: 18px;
@@ -265,9 +271,10 @@ footer {
 }
 
 .skill-items {
-  border: 2px solid steelblue;
+  border: 2px solid salmon;
   padding: 20px;
   border-radius: 5px;
+  background: #4682B4;
 }
 
 .skill-list {
@@ -298,7 +305,8 @@ footer {
 }
 
 a {
-  color: aqua;
+  font-family: system-ui;
+  color: gold;
   text-decoration: none;
   font-size: 22px;
 }
@@ -312,6 +320,8 @@ a {
     display: flex;
     align-items: flex-start;
     min-width: 240px;
+    box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+
   }
 
   .first-project {

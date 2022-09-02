@@ -20,6 +20,7 @@ const FirstContent = () => {
                     <SkillItem skill='БЭМ, Bootstrap 3, CSS3, LESS, SASS' src={imgs.CSS3}/>
                     <SkillItem skill='React - уверенные знания' src={imgs.reactLogo}/>
                     <SkillItem skill='Redux - базовый уровнь' src='https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png'/>
+                    <SkillItem skill='TypeScript - учу' src='https://cdn-icons-png.flaticon.com/512/919/919832.png'/>
                     <SkillItem skill='Опыт вёрстки сайтов и шаблонов по Figma' src={imgs.figma}/>
                     <SkillItem skill='Опыт работы с git, Github, IDE - WebStorm' src={imgs.github}/>
                     <SkillItem skill='Английский язык Upper Intermediate(B2)' src={imgs.English}/>
