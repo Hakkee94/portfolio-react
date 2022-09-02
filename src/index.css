@@ -149,7 +149,6 @@ header {
   border-radius: 8px;
   margin-bottom: 16px;
   padding: 35px;
-  width: 100%;
   min-height: 192px;
   display: flex;
   flex-direction: column;
@@ -221,10 +220,6 @@ footer {
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
-}
-
-.first-project {
-  display: flex;
 }
 
 .footer-images {
