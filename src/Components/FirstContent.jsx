@@ -6,7 +6,7 @@ const FirstContent = () => {
     return (
         <div className="first-content" id='skills'>
             <div className="introduction">
-                <h1>Меня зовут Давид Агасян, фронтенд разработчик.</h1>
+                <h1>Меня зовут Давид Агасян, я фронтенд разработчик.</h1>
             </div>
 
             <div className='skill-items'>
