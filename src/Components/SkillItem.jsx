@@ -4,7 +4,7 @@ const SkillItem = ({skill, src}) => {
     return (
         <div className="logo-plus-text">
             <img className="skill-logo" src={src}/>
-            <h3>{skill}</h3>
+            <h3 className='start'>{skill}</h3>
         </div>
     );
 };

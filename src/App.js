@@ -3,6 +3,7 @@ import FirstContent from "./Components/FirstContent";
 import MyProjects from "./Components/MyProjects";
 import AboutMe from "./Components/AboutMe";
 import Footer from "./Components/Footer";
+import Calculator from "./Pages/Calculator";
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
         <FirstContent/>
         <MyProjects/>
         <AboutMe/>
+        {/*<Calculator/>*/}
         <Footer/>
     </div>
   );

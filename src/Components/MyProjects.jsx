@@ -10,7 +10,10 @@ const MyProjects = () => {
             </div>
 
             <div className='first-project'>
-                <OtherProjects fullProject title='Адаптивный сайт курса для беременных' info='Сайт, написанный с помощью HTML, CSS, JS' link='https://hakkee94.github.io/pregnancy-course/'/>
+                <OtherProjects fullProject title='Сайт курса для педагогов 1' info='Сайт, написанный с помощью HTML, CSS, JS' link='https://olympiads.vercel.app/'/>
+                <OtherProjects fullProject title='Сайт курсов для педагогов 3' info='Сайт, написанный с помощью HTML, CSS, JS' link='https://kpk-kpp.vercel.app/'/>
+                <OtherProjects fullProject title='Сайт курсов для педагогов 2' info='Сайт, написанный с помощью HTML, CSS, JS' link='https://fgos-centre.vercel.app/'/>
+                <OtherProjects fullProject title='Сайт курса для беременных' info='Сайт, написанный с помощью HTML, CSS, JS' link='https://hakkee94.github.io/pregnancy-course/'/>
                 <OtherProjects fullProject title='Адаптивное приложение корма для котиков' info='Приложение, написанное с помощью react, с возможностью выбора нескольких позиций' link='https://feed-cats-app.vercel.app/'/>
                 <OtherProjects fullProject title='Next js приложение поиска пива по названию' info='Приложение, написанное с помощью react, next js, typescript' link='https://beer-app-hakkee94.vercel.app/'/>
                 <OtherProjects fullProject title='Redux приложение' info='Интернет магазин ноутбуков, написанный на React+Redux, использовался redux-toolkit' link='https://hakkee94.github.io/redux-cart-shop/'/>
