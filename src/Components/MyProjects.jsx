@@ -10,6 +10,7 @@ const MyProjects = () => {
             </div>
 
             <div className='first-project'>
+                <OtherProjects fullProject title='Рейтинг фильмов' info='Стэк: Nextjs, Reactjs, RTK, MUI, TS' link='https://filmlibrary.vercel.app/'/>
                 <OtherProjects fullProject title='Сайт курса для педагогов 1' info='Сайт, написанный с помощью HTML, CSS, JS' link='https://olympiads.vercel.app/'/>
                 <OtherProjects fullProject title='Сайт курсов для педагогов 3' info='Сайт, написанный с помощью HTML, CSS, JS' link='https://kpk-kpp.vercel.app/'/>
                 <OtherProjects fullProject title='Сайт курсов для педагогов 2' info='Сайт, написанный с помощью HTML, CSS, JS' link='https://fgos-centre.vercel.app/'/>
