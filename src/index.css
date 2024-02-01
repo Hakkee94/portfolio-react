@@ -147,7 +147,7 @@ header {
 }
 
 .first-project-position {
-    background: #0288D1;
+    background: lightslategray;
     border-radius: 5px;
     margin-bottom: 16px;
     padding: 35px;
@@ -168,7 +168,7 @@ header {
 
 .other-projects {
     padding: 35px;
-    background: #0288D1;
+    background: lightslategray;
     border-radius: 8px;
     margin-bottom: 20px;
     width: 80%;
@@ -277,7 +277,7 @@ footer {
     border: 2px solid salmon;
     padding: 20px;
     border-radius: 5px;
-    background: #0288D1;
+    background: lightslategray;
 }
 
 .skill-list {
